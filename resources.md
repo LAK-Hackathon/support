@@ -6,8 +6,20 @@ This page lists data and code that might be helpful in you hackathon.
 
 [Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset) - an anonymised dataset containing  data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules)
 
+## Data Standards
+
+[Jisc Universal Data Definitions] (https://github.com/jiscdev/analytics-udd) - a standard way of describing students, their courses and results, used in Jisc's National Learning Analytics Architecture.
+
+[Jisc Universal xAPI Recipies and Templates] (https://github.com/jiscdev/xapi) - xAPI recipies and templates used by Jisc's National Learning Analytics Architecture, covering VLE, Attendance, Library and others.
+
 ## Code Tools
 
 ## Code Libraries
 
+[Highcharts](https://www.highcharts.com/docs/getting-started/installation) - an easy to use Javascript charting library - great for getting started with standard charts.
+
+[d3][https://d3js.org/] - a JavaScript library for manipulating documents based on data.  If you want to created new types of visualisations consider this.  The learning curve is higher than something like Highcharts, but it is far more flexible.
+
 ## Code Examples
+
+[Pulling xaPI and UDD data from Learning Locker](https://github.com/jiscdev/jisc-la-test-data) - this shows how to pull bulk data from Jisc's learning data hub, and includes a small amount of test data.
