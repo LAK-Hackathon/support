@@ -26,28 +26,36 @@ Jisc Universal Data Definitions - a standard way of describing students, their c
 
 [https://github.com/jiscdev/analytics-udd](https://github.com/jiscdev/analytics-udd)
 
-[Jisc Universal xAPI Recipies and Templates](https://github.com/jiscdev/xapi) - xAPI recipies and templates used by Jisc's National Learning Analytics Architecture, covering VLE, Attendance, Library and others.
+Jisc Universal xAPI Recipies and Templates - xAPI recipies and templates used by Jisc's National Learning Analytics Architecture, covering VLE, Attendance, Library and others.
 
-[Jisc Universal xAPI Recipies and Templates](https://github.com/jiscdev/xapi)
+[https://github.com/jiscdev/xapi](https://github.com/jiscdev/xapi)
 
 ## Code Tools
 
-### [LakHak Test Data](https://github.com/jiscdev/lakhak)
+### LakHak Test Data
 
 an output from the 2017 Hackathon - this code generates test activity data relating to VLEs, used to create visualisations.
 
+[LakHak Test Data](https://github.com/jiscdev/lakhak)
+
 ## Code Libraries
 
-### [Highcharts](https://www.highcharts.com/docs/getting-started/installation)
+### Highcharts
 
 An easy to use Javascript charting library - great for getting started with standard charts.
 
-### [d3](https://d3js.org/)
+[https://www.highcharts.com/docs/getting-started/installation](https://www.highcharts.com/docs/getting-started/installation)
+
+### d3
 
 A JavaScript library for manipulating documents based on data.  If you want to created new types of visualisations consider this.  The learning curve is higher than something like Highcharts, but it is far more flexible.
 
+[https://d3js.org/](https://d3js.org/)
+
 ## Code Examples
 
-### [Pulling xaPI and UDD data from Learning Locker](https://github.com/jiscdev/jisc-la-test-data)
+### Pulling xaPI and UDD data from Learning Locker
 
 This shows how to pull bulk data from Jisc's learning data hub, and includes a small amount of test data.
+
+[https://github.com/jiscdev/jisc-la-test-data](https://github.com/jiscdev/jisc-la-test-data)
