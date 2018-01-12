@@ -8,9 +8,19 @@ This page lists data and code that might be helpful in you hackathon.
 
 ## Data Standards
 
-[Jisc Universal Data Definitions] (https://github.com/jiscdev/analytics-udd) - a standard way of describing students, their courses and results, used in Jisc's National Learning Analytics Architecture.
+### General Learning Analtytics Standards
 
-[Jisc Universal xAPI Recipies and Templates] (https://github.com/jiscdev/xapi) - xAPI recipies and templates used by Jisc's National Learning Analytics Architecture, covering VLE, Attendance, Library and others.
+Both xAPI and Caliper provide ways of representing learning experiences in a standard way:
+
+[xAPI](https://experienceapi.com/overview/) .
+
+[Caliper](https://www.imsglobal.org/activity/caliper)
+
+### Other Learning Analtytics Standards
+
+[Jisc Universal Data Definitions](https://github.com/jiscdev/analytics-udd) - a standard way of describing students, their courses and results, used in Jisc's National Learning Analytics Architecture.
+
+[Jisc Universal xAPI Recipies and Templates](https://github.com/jiscdev/xapi) - xAPI recipies and templates used by Jisc's National Learning Analytics Architecture, covering VLE, Attendance, Library and others.
 
 ## Code Tools
 
