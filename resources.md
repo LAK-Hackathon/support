@@ -36,7 +36,7 @@ Jisc Universal xAPI Recipies and Templates - xAPI recipies and templates used by
 
 an output from the 2017 Hackathon - this code generates test activity data relating to VLEs, used to create visualisations.
 
-[LakHak Test Data](https://github.com/jiscdev/lakhak)
+[https://github.com/jiscdev/lakhak](https://github.com/jiscdev/lakhak)
 
 ## Code Libraries
 
