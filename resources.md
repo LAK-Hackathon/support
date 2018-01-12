@@ -4,9 +4,11 @@ This page lists data and code that might be helpful in you hackathon.
 
 ## Data Sets
 
-### [Open University Learning Analytics dataset](https://analyse.kmi.open.ac.uk/open_dataset)
+### Open University Learning Analytics dataset
 
 An anonymised dataset containing  data about courses, students and their interactions with Virtual Learning Environment (VLE) for seven selected courses (called modules)
+
+[https://analyse.kmi.open.ac.uk/open_dataset](https://analyse.kmi.open.ac.uk/open_dataset)
 
 ## Data Standards
 
@@ -14,15 +16,19 @@ An anonymised dataset containing  data about courses, students and their interac
 
 Both xAPI and Caliper provide ways of representing learning experiences in a standard way:
 
-[xAPI](https://experienceapi.com/overview/) .
+xAPI - [https://experienceapi.com/overview/](https://experienceapi.com/overview/) .
 
-[Caliper](https://www.imsglobal.org/activity/caliper)
+Caliper - [https://www.imsglobal.org/activity/caliper](https://www.imsglobal.org/activity/caliper)
 
 ### Other Learning Analtytics Standards
 
-[Jisc Universal Data Definitions](https://github.com/jiscdev/analytics-udd) - a standard way of describing students, their courses and results, used in Jisc's National Learning Analytics Architecture.
+Jisc Universal Data Definitions - a standard way of describing students, their courses and results, used in Jisc's National Learning Analytics Architecture.
+
+[https://github.com/jiscdev/analytics-udd](https://github.com/jiscdev/analytics-udd)
 
 [Jisc Universal xAPI Recipies and Templates](https://github.com/jiscdev/xapi) - xAPI recipies and templates used by Jisc's National Learning Analytics Architecture, covering VLE, Attendance, Library and others.
+
+[Jisc Universal xAPI Recipies and Templates](https://github.com/jiscdev/xapi)
 
 ## Code Tools
 
