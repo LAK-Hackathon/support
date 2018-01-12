@@ -12,7 +12,7 @@ An anonymised dataset containing  data about courses, students and their interac
 
 See also:
 
-[LakHak Test Data](#LakHak-Test-Data)
+[LakHak Test Data](#lakhak-test-data)
 
 ## Data Standards
 
