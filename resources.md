@@ -18,7 +18,7 @@ This page lists data and code that might be helpful in you hackathon.
 
 [Highcharts](https://www.highcharts.com/docs/getting-started/installation) - an easy to use Javascript charting library - great for getting started with standard charts.
 
-[d3][https://d3js.org/] - a JavaScript library for manipulating documents based on data.  If you want to created new types of visualisations consider this.  The learning curve is higher than something like Highcharts, but it is far more flexible.
+[d3](https://d3js.org/) - a JavaScript library for manipulating documents based on data.  If you want to created new types of visualisations consider this.  The learning curve is higher than something like Highcharts, but it is far more flexible.
 
 ## Code Examples
 
