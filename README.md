@@ -20,9 +20,9 @@ For more visit: https://lakhackathon.wordpress.com/
 
 The support material are split into two sections:
 
-[resources](resouces.md)
+[Resources](https://github.com/learning-analytics-hackathons/support/blob/master/resources.md)
 
-[processes](processes.md)
+[Processes](https://github.com/learning-analytics-hackathons/support/blob/master/processes.md)
 
 The [resources](resouces.md) section contains links to data, code, standards and other info that should help you get going quickly.
 
